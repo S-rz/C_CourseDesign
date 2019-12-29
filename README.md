@@ -1,1 +1,1 @@
-# C_CourseDesign
+# HUST CS C Programming Language Course Design
